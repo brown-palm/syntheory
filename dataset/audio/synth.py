@@ -21,8 +21,8 @@ def produce_synth_wav_from_midi(
         # run the synth
         result = subprocess.run(
             [
-                DEFAULT_SYNTH_BINARY_LOCATION,
-                DEFAULT_SOUNDFONT_LOCATION,
+                str(Path(DEFAULT_SYNTH_BINARY_LOCATION).absolute()),
+                str(Path(DEFAULT_SOUNDFONT_LOCATION).absolute()),
                 str(midi_filepath),
                 str(save_wav_to),
             ],
@@ -32,5 +32,7 @@ def produce_synth_wav_from_midi(
         )
         if show_logs:
             print(result.stdout)
+    except FileNotFoundError as e:
+        print(f"Could not find {e}. Has the synth binary been compiled?")
     except subprocess.CalledProcessError as e:  # pragma: no cover
         print(f"Error running: {e}. stderr: {e.output}")
