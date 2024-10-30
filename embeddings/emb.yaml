@@ -1,0 +1,28 @@
+# Models to extract representations from
+models:
+  - HANDCRAFT
+  - MUSICGEN_AUDIO_ENCODER
+  - JUKEBOX
+  - MUSICGEN_DECODER_LM_S
+  - MUSICGEN_DECODER_LM_M
+  - MUSICGEN_DECODER_LM_L
+  - MELSPEC
+  - MFCC
+  - CHROMA
+
+# Concepts to extract representations for
+concepts:
+  - time_signatures
+  - tempos
+  - notes
+  - chords
+  - scales
+  - intervals
+  - chord_progressions
+
+# Global settings
+settings:
+  minimum_duration_in_sec: 4
+  conda_env_name: "syntheory"
+  max_samples_per_shard: 300
+  slurm_partition: "gpu"

@@ -1,0 +1,129 @@
+Category,Number,Instrument
+Piano Timbres,0,Acoustic Grand Piano
+Piano Timbres,1,Bright Acoustic Piano
+Piano Timbres,2,Electric Grand Piano
+Piano Timbres,3,Honky-tonk Piano
+Piano Timbres,4,Rhodes Piano
+Piano Timbres,5,Chorused Piano
+Piano Timbres,6,Harpsichord
+Piano Timbres,7,Clavinet
+Chromatic Percussion,8,Celesta
+Chromatic Percussion,9,Glockenspiel
+Chromatic Percussion,10,Music Box
+Chromatic Percussion,11,Vibraphone
+Chromatic Percussion,12,Marimba
+Chromatic Percussion,13,Xylophone
+Chromatic Percussion,14,Tubular Bells
+Chromatic Percussion,15,Dulcimer
+Organ Timbres,16,Hammond Organ
+Organ Timbres,17,Percussive Organ
+Organ Timbres,18,Rock Organ
+Organ Timbres,19,Church Organ
+Organ Timbres,20,Reed Organ
+Organ Timbres,21,Accordion
+Organ Timbres,22,Harmonica
+Organ Timbres,23,Tango Accordion
+Guitar Timbres,24,Acoustic Nylon Guitar
+Guitar Timbres,25,Acoustic Steel Guitar
+Guitar Timbres,26,Electric Jazz Guitar
+Guitar Timbres,27,Electric Clean Guitar
+Guitar Timbres,28,Electric Muted Guitar
+Guitar Timbres,29,Overdriven Guitar
+Guitar Timbres,30,Distortion Guitar
+Guitar Timbres,31,Guitar Harmonics
+Bass Timbres,32,Acoustic Bass
+Bass Timbres,33,Fingered Electric Bass
+Bass Timbres,34,Plucked Electric Bass
+Bass Timbres,35,Fretless Bass
+Bass Timbres,36,Slap Bass 1
+Bass Timbres,37,Slap Bass 2
+Bass Timbres,38,Synth Bass 1
+Bass Timbres,39,Synth Bass 2
+String Timbres,40,Violin
+String Timbres,41,Viola
+String Timbres,42,Cello
+String Timbres,43,Contrabass
+String Timbres,44,Tremolo Strings
+String Timbres,45,Pizzicato Strings
+String Timbres,46,Orchestral Harp
+String Timbres,47,Timpani
+Ensemble Timbres,48,String Ensemble 1
+Ensemble Timbres,49,String Ensemble 2
+Ensemble Timbres,50,Synth Strings 1
+Ensemble Timbres,51,Synth Strings 2
+Ensemble Timbres,52,Choir "Aah"
+Ensemble Timbres,53,Choir "Ooh"
+Ensemble Timbres,54,Synth Voice
+Ensemble Timbres,55,Orchestral Hit
+Brass Timbres,56,Trumpet
+Brass Timbres,57,Trombone
+Brass Timbres,58,Tuba
+Brass Timbres,59,Muted Trumpet
+Brass Timbres,60,French Horn
+Brass Timbres,61,Brass Section
+Brass Timbres,62,Synth Brass 1
+Brass Timbres,63,Synth Brass 2
+Reed Timbres,64,Soprano Sax
+Reed Timbres,65,Alto Sax
+Reed Timbres,66,Tenor Sax
+Reed Timbres,67,Baritone Sax
+Reed Timbres,68,Oboe
+Reed Timbres,69,English Horn
+Reed Timbres,70,Bassoon
+Reed Timbres,71,Clarinet
+Pipe Timbres,72,Piccolo
+Pipe Timbres,73,Flute
+Pipe Timbres,74,Recorder
+Pipe Timbres,75,Pan Flute
+Pipe Timbres,76,Bottle Blow
+Pipe Timbres,77,Shakuhachi
+Pipe Timbres,78,Whistle
+Pipe Timbres,79,Ocarina
+Synth Lead,80,Square Wave Lead
+Synth Lead,81,Sawtooth Wave Lead
+Synth Lead,82,Calliope Lead
+Synth Lead,83,Chiff Lead
+Synth Lead,84,Charang Lead
+Synth Lead,85,Voice Lead
+Synth Lead,86,Fifths Lead
+Synth Lead,87,Bass Lead
+Synth Pad,88,New Age Pad
+Synth Pad,89,Warm Pad
+Synth Pad,90,Polysynth Pad
+Synth Pad,91,Choir Pad
+Synth Pad,92,Bowed Pad
+Synth Pad,93,Metallic Pad
+Synth Pad,94,Halo Pad
+Synth Pad,95,Sweep Pad
+Synth Effects,96,Rain Effect
+Synth Effects,97,Soundtrack Effect
+Synth Effects,98,Crystal Effect
+Synth Effects,99,Atmosphere Effect
+Synth Effects,100,Brightness Effect
+Synth Effects,101,Goblins Effect
+Synth Effects,102,Echoes Effect
+Synth Effects,103,Sci-Fi Effect
+Ethnic Timbres,104,Sitar
+Ethnic Timbres,105,Banjo
+Ethnic Timbres,106,Shamisen
+Ethnic Timbres,107,Koto
+Ethnic Timbres,108,Kalimba
+Ethnic Timbres,109,Bagpipe
+Ethnic Timbres,110,Fiddle
+Ethnic Timbres,111,Shanai
+Sound Effects,112,Tinkle Bell
+Sound Effects,113,Agogo
+Sound Effects,114,Steel Drums
+Sound Effects,115,Woodblock
+Sound Effects,116,Taiko Drum
+Sound Effects,117,Melodic Tom
+Sound Effects,118,Synth Drum
+Sound Effects,119,Reverse Cymbal
+Sound Effects,120,Guitar Fret Noise
+Sound Effects,121,Breath Noise
+Sound Effects,122,Seashore
+Sound Effects,123,Bird Tweet
+Sound Effects,124,Telephone Ring
+Sound Effects,125,Helicopter
+Sound Effects,126,Applause
+Sound Effects,127,Gun Shot
